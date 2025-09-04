@@ -16,5 +16,10 @@
 
 ```powershell
 git clone https://github.com/IDK-kakao/FreshArch.git
+```
+```powershell
 cd FreshArch
+```
+```powershell
 .\launcher.exe
+```
