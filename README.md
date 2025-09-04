@@ -1,7 +1,7 @@
 # FreshArch
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Docker](https://img.shields.io/badge/Docker-Ready-blue?logo=docker)](https://hub.docker.com/)
+[![Arch Linux](https://img.shields.io/badge/Arch-Linux-blue?logo=archlinux)](https://www.archlinux.org/)
 [![GitHub stars](https://img.shields.io/github/stars/IDK-kakao/FreshArch?style=social)](https://github.com/IDK-kakao/FreshArch/stargazers)
 [![Build](https://img.shields.io/badge/build-passing-success?logo=githubactions&logoColor=white)](https://github.com/IDK-kakao/FreshArch/actions)
 [![Issues](https://img.shields.io/github/issues/IDK-kakao/FreshArch?color=violet)](https://github.com/IDK-kakao/FreshArch/issues)
