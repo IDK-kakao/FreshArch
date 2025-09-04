@@ -9,7 +9,7 @@
 ---
 
 > [!NOTE]
-> **FreshArch** is an unofficial Arch Linux distribution for WSL based on a Docker rootfs.  
+> **FreshArch** is an unofficial Arch WSL with a rootfs Docker image. It was made to make Linux development easy let you customize it simply and flexibly set it up quickly and make your life *easier*. 
 
 ---
 ## Installation
