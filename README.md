@@ -6,6 +6,7 @@
 [![Build](https://img.shields.io/badge/build-passing-success?logo=githubactions&logoColor=white)](https://github.com/IDK-kakao/FreshArch/actions)
 [![Issues](https://img.shields.io/github/issues/IDK-kakao/FreshArch?color=violet)](https://github.com/IDK-kakao/FreshArch/issues)
 
+
 ---
 
 > [!NOTE]
