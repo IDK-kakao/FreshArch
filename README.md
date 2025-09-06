@@ -15,9 +15,8 @@
 ---
 ## Installation
 
-```powershell
-git clone https://github.com/IDK-kakao/FreshArch.git
-```
+Download latest release and rootFS
+
 ```powershell
 cd FreshArch
 ```
