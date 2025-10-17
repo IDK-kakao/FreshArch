@@ -12,6 +12,9 @@
 > [!NOTE]
 > **FreshArch** is an unofficial Arch WSL with a rootfs Docker image. It was made to make Linux development easy let you customize it simply and flexibly set it up quickly and make your life *easier*. 
 
+**DistroLauncher by —** _[github.com/microsoft/WSL-DistroLauncher](https://github.com/microsoft/WSL-DistroLauncher)_
+
+
 ---
 ## Installation
 
